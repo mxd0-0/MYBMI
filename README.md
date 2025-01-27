@@ -1,4 +1,4 @@
-# BMI Calculator
+# MYBMI
 
 ![Cover](https://github.com/user-attachments/assets/bc446c0a-25ae-41e3-b0e5-237119a7472e)
 
