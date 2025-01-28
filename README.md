@@ -74,5 +74,6 @@ Contributions are welcome! Please follow these steps:
 - Jetpack Compose
 - Android Studio
 - Kotlin
+- Clean Architecture
 
 ---
