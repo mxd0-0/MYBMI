@@ -74,6 +74,7 @@ Contributions are welcome! Please follow these steps:
 - Jetpack Compose
 - Android Studio
 - Kotlin
+- Unit Testing
 - Clean Architecture
 
 ---
