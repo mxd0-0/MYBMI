@@ -10,3 +10,5 @@ class BMICalculator {
         return BMI(bmiValue, category.description)
     }
 }
+
+
